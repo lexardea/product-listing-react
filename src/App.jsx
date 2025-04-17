@@ -27,7 +27,6 @@ function App() {
   
   return (
     <>
-      <p>test test</p>
       <ProductList products={products}/>
     </>
   )
